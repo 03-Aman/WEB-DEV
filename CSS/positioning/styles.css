@@ -1,0 +1,17 @@
+/* p{
+    position: static;
+} */
+
+.box{
+    display: inline-block;
+   border: 1px solid black;
+   width: 100px;;
+   height: 100px;
+   background-color: aqua;
+}
+
+#box3{
+    position: relative;
+    top: 120px;
+    left: 50px;
+}
